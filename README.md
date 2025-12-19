@@ -66,6 +66,24 @@ Cloud: GCP, AWS, ETL Pipelines, Data Warehouse
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=muskan-bansal-03&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/muskan-bansal-03?label=Followers)
+
+
 
 🎓 Certifications
 
