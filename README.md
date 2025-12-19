@@ -55,6 +55,18 @@ Libraries: Pandas, NumPy, scikit-learn
 Tools: Power BI, Tableau, Excel, Git, GitHub
 Cloud: GCP, AWS, ETL Pipelines, Data Warehouse
 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?logo=tensorflow&logoColor=orange)
+![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
+
 🎓 Certifications
 
 Oracle Cloud OCI AI Foundations (2025)
