@@ -47,6 +47,17 @@ Built real-time gaze detection using OpenCV + MediaPipe, compatible with Zoom, M
 
 NLP-based system using SpaCy to parse skills, extract insights, and boost match accuracy by 20%.
 
+## ⚡ Quick Facts
+
+- 🎓 CS Student
+- 💻 Aspiring Software Developer
+- 🌱 Currently learning Full Stack & DSA
+- 🚀 Open to Internships & Opportunities
+- 📄 Resume: [Click Here]([https://your-resume-link](https://drive.google.com/file/d/1ocfpyZXU7ttSM6pdbDRpLIy0M_KtoaQF/view?usp=sharing))
+- 📫 Reach me at: muskanbansal0304@gmail.com
+
+---
+
 🛠️ Technical Skills
 
 Languages: Python, SQL, C, C++, JavaScript, HTML, CSS
